@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="CASO 6 Modelo Logico" id="B6417639-5868-0BF7-4229-1B34C82DF340" version="3.5">
+<createdBy>vilch</createdBy>
+<createdTime>2024-08-16 02:28:53 UTC</createdTime>
+<ownerDesignName>CASO 6 Modelo Logico</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>B6417639-5868-0BF7-4229-1B34C82DF340</designId>
+</OSDM_Design>
