@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="CASO 3 Modelo Relacional" id="76630307-ED38-E4B6-0867-AC4D4A236C27" version="3.5">
+<createdBy>vilch</createdBy>
+<createdTime>2024-08-15 17:54:30 UTC</createdTime>
+<ownerDesignName>CASO 3 Modelo Relacional</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>76630307-ED38-E4B6-0867-AC4D4A236C27</designId>
+</OSDM_Design>
